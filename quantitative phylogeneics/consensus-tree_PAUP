@@ -1,0 +1,887 @@
+paup> contree /strict saveAsRooted file=consensus.nex;
+
+Strict consensus of 32 trees:
+
+/---------------------------------------------------------------------------------------- Diplurines
+|
+|                                                                                  /----- A incursa
+|                                                        /-------------------------+
+|                                                        |                         \----- A alegre
+|                                                        |
+|                                                        |    /-------------------------- A pissii
+|                                                        |    |
+|                                                        |    |                    /----- A franckii
+|                                                        |    |                    |
+|                                                        |    |               /----+----- A penasco
+|                                                        |    |               |    |
+|                                                        |    |               |    \----- A recinto
+|                                                        |    |         /-----+
+|                                                        |    |         |     +---------- A huaquen
+|                                                        |    |         |     |
+|                                                        +----+         |     \---------- A juncal
+|                                                        |    |         |
+|                                                        |    |         +---------------- A quilocur
+|                                                        |    |    /----+
+|                                                   /----+    |    |    |          /----- A chilechi
+|                                                   |    |    |    |    |          |
+|                                                   |    |    |    |    |          +----- A fuegiana
+|                                                   |    |    |    |    |          |
+|                                                   |    |    |    |    \----------+----- A patagoni
+|                                                   |    |    |    |               |
+|                                                   |    |    \----+               +----- A notata
+|                                                   |    |         |               |
+|                                                   |    |         |               \----- A birabeni
+|                                                   |    |         |
+|                                              /----+    |         +--------------------- A central
+|                                              |    |    |         |
+|                                              |    |    |         +--------------------- A parana
+|                                              |    |    |         |
+|                                              |    |    |         \--------------------- A tacuarie
+|                                              |    |    |
+|                                              |    |    \------------------------------- A confusa
+|                                        /-----+    |
+|                                        |     |    |                              /----- A Mallec
+|                                        |     |    |                              |
+|                                        |     |    \------------------------------+----- A Mulche
+|                                        |     |                                   |
+|                                        |     |                                   \----- A Chilla
+|                                   /----+     |
+|                                   |    |     \----------------------------------------- A campanae
+|                                   |    |
+|                                   |    |                         /--------------------- A guttulat
+|                                   |    |                         |
+|                                   |    |                         |               /----- A nahuelbu
+|                                   |    \-------------------------+          /----+
+|         /-------------------------+                              |          |    \----- A hualpen
+|         |                         |                              |    /-----+
+|         |                         |                              \----+     \---------- A patagall
+|         |                         |                                   |
+|         |                         |                                   \---------------- A vilches
+|         |                         |
+|         |                         |                                              /----- Stanwellia
+|         |                         \----------------------------------------------+
+|         |                                                                        \----- Hermacha
+|         |
+|         |                                                                   /---------- L gajardoi
+|         |                                                                   |
+|         |                                                                   +---------- L longipes
+|         |                                                                   |
+|         |                                                                   +---------- L caldera
+|         |                                                                   |
+|         |                                                                   |    /----- L tofo
+|         |                                                                   |    |
+|         |                                                                   +----+----- L paposo
+|         |                                                                   |    |
+|         |                                                             /-----+    \----- L quilicur
+|         |                                                             |     |
+|         |                                                             |     +---------- L frayjorg
+|         |                                                             |     |
+|         |                                                             |     +---------- L epipiptu
+|         |                                                             |     |
+|         |                                                             |     +---------- L domeyko
+|         |                                                        /----+     |
+|         |                                                        |    |     |    /----- D ornatus
+|         |                                                        |    |     \----+
+|         |                                                        |    |          \----- D bonarien
+|         |                                                        |    |
+|         |                                                        |    |          /----- Chil calde
+|         |                                                   /----+    |     /----+
+|         |                                                   |    |    |     |    \----- Chil puert
+|         |                                                   |    |    \-----+
+|         |                                                   |    |          \---------- Chil 553
+|         |                                                   |    |
+|         |                                              /----+    \--------------------- Flamenco
+|         |                                              |    |
+|         |                                              |    |                    /----- Prorachias
+|         |                                              |    |    /---------------+
+|         |                                              |    |    |               \----- Pselligmus
+|         |                                              |    |    |
+|         |                                              |    \----+               /----- Barychelin
+|         |                                              |         |    /----------+
+|         |                                              |         |    |          \----- Trichopelm
+|         |                                              |         \----+
+|         |                                         /----+              |     /---------- Neod para
+|         |                                         |    |              |     |
+|         |                                         |    |              \-----+    /----- Neod irre
+|         |                                         |    |                    \----+
+|         |                                         |    |                         \----- Cosmopel
+|         |                                         |    |
+|         |                                         |    |                         /----- Cha obscu
+|    /----+                                         |    |         /---------------+
+|    |    |                                         |    |         |               \----- Cha tucu
+|    |    |                                         |    |         |
+|    |    |                                         |    \---------+               /----- Cha socos
+|    |    |                                    /----+              |    /----------+
+|    |    |                                    |    |              |    |          \----- Cha tigre
+|    |    |                                    |    |              |    |
+|    |    |                                    |    |              \----+          /----- Cha pata
+|    |    |                                    |    |                   |     /----+
+|    |    |                                    |    |                   |     |    \----- Cha sanju
+|    |    |                                    |    |                   \-----+
+|    |    |                                    |    |                         \---------- Cha tecka
+|    |    |                                    |    |
+|    |    |                                    |    |                              /----- Pyc modes
+|    |    |                                    |    |                         /----+
+|    |    |                                    |    |                         |    \----- Pyc perdi
+|    |    |                                    |    \-------------------------+
+|    |    |                              /-----+                              \---------- Pyc new
+|    |    |                              |     |
+|    |    |                              |     |                                   /----- St platen
+|    |    |                              |     |                                   |
+|    |    |                              |     |                                   +----- St palmar
+|    |    |                              |     |                                   |
+|    |    |                              |     |                                   +----- St crassi
+|    |    |                              |     |                        /----------+
+|    |    |                              |     |                        |          +----- St lepo
+|    |    |                              |     |                        |          |
+|    |    |                         /----+     |                        |          +----- St cf.lepo
+|    |    |                         |    |     |                        |          |
+|    |    |                         |    |     \------------------------+          \----- H luderdw
+|    |    |                         |    |                              |
+\----+    |                         |    |                              |          /----- Rac timbo
+     |    |                         |    |                              |     /----+
+     |    |                         |    |                              |     |    \----- Rac pira
+     |    |                    /----+    |                              \-----+
+     |    |                    |    |    |                                    \---------- Rac new
+     |    |                    |    |    |
+     |    |                    |    |    \----------------------------------------------- MICROST s.
+     |    |                    |    |
+     |    |                    |    |                                         /---------- Nemesia
+     |    |               /----+    |                                         |
+     |    |               |    |    \-----------------------------------------+    /----- Aporoptych
+     |    |               |    |                                              \----+
+     |    |               |    |                                                   \----- Cyrtauchen
+     |    |               |    |
+     |    |               |    +--------------------------------------------------------- Calisoga
+     |    |               |    |
+     |    |          /----+    \--------------------------------------------------------- Damarchus
+     |    |          |    |
+     |    |          |    |                                                        /----- Theraphosi
+     |    |          |    |                                                   /----+
+     |    |          |    |                                                   |    \----- Glabropelm
+     |    |     /----+    |                                             /-----+
+     |    |     |    |    \---------------------------------------------+     \---------- Ischnocoli
+     |    |     |    |                                                  |
+     |    \-----+    |                                                  \---------------- Paratropi
+     |          |    |
+     |          |    \------------------------------------------------------------------- Anamini
+     |          |
+     |          \------------------------------------------------------------------------ Ixamatus
+     |
+     \----------------------------------------------------------------------------------- Mexentypes
+
+
+
+
+
+
+  paup> describetrees 1/diag plot=cladogram apolist=yes;
+
+Tree description:
+
+  Unrooted tree(s) rooted using outgroup method
+
+  Note: No outgroup has been defined; tree is (arbitrarily) rooted at first taxon.
+  Optimality criterion = parsimony
+    Character-status summary:
+      8 characters are excluded
+      Of the remaining 104 included characters:
+        10 characters are of type 'ord' (Wagner)
+        94 characters are of type 'unord'
+        All characters have equal weight
+        8 characters are parsimony-uninformative
+        Number of (included) parsimony-informative characters = 96
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+    Character-state optimization: Minimum F-value (MINF)
+
+Tree 1 ("Strict") (rooted using default outgroup)
+
+Tree length = 401
+Consistency index (CI) = 0.3416
+Homoplasy index (HI) = 0.6584
+CI excluding uninformative characters = 0.3282
+HI excluding uninformative characters = 0.6718
+Retention index (RI) = 0.7690
+Rescaled consistency index (RC) = 0.2627
+
+/---------------------------------------------------------------------------------------- Diplurines
+|
+|                                                                                  /----- A incursa
+|                                                        /------------------------85
+|                                                        |                         \----- A alegre
+|                                                        |
+|                                                        |    /-------------------------- A pissii
+|                                                        |    |
+|                                                        |    |                    /----- A franckii
+|                                                        |    |                    |
+|                                                        |    |               /---86----- A penasco
+|                                                        |    |               |    |
+|                                                        |    |               |    \----- A recinto
+|                                                        |    |         /----87
+|                                                        |    |         |     +---------- A huaquen
+|                                                        |    |         |     |
+|                                                        +---91         |     \---------- A juncal
+|                                                        |    |         |
+|                                                        |    |         +---------------- A quilocur
+|                                                        |    |    /---89
+|                                                   /---92    |    |    |          /----- A chilechi
+|                                                   |    |    |    |    |          |
+|                                                   |    |    |    |    |          +----- A fuegiana
+|                                                   |    |    |    |    |          |
+|                                                   |    |    |    |    \---------88----- A patagoni
+|                                                   |    |    |    |               |
+|                                                   |    |    \---90               +----- A notata
+|                                                   |    |         |               |
+|                                                   |    |         |               \----- A birabeni
+|                                                   |    |         |
+|                                              /---94    |         +--------------------- A central
+|                                              |    |    |         |
+|                                              |    |    |         +--------------------- A parana
+|                                              |    |    |         |
+|                                              |    |    |         \--------------------- A tacuarie
+|                                              |    |    |
+|                                              |    |    \------------------------------- A confusa
+|                                        /----95    |
+|                                        |     |    |                              /----- A Mallec
+|                                        |     |    |                              |
+|                                        |     |    \-----------------------------93----- A Mulche
+|                                        |     |                                   |
+|                                        |     |                                   \----- A Chilla
+|                                   /--100     |
+|                                   |    |     \----------------------------------------- A campanae
+|                                   |    |
+|                                   |    |                         /--------------------- A guttulat
+|                                   |    |                         |
+|                                   |    |                         |               /----- A nahuelbu
+|                                   |    \------------------------99          /---96
+|         /-----------------------102                              |          |    \----- A hualpen
+|         |                         |                              |    /----97
+|         |                         |                              \---98     \---------- A patagall
+|         |                         |                                   |
+|         |                         |                                   \---------------- A vilches
+|         |                         |
+|         |                         |                                              /----- Stanwellia
+|         |                         \--------------------------------------------101
+|         |                                                                        \----- Hermacha
+|         |
+|         |                                                                   /---------- L gajardoi
+|         |                                                                   |
+|         |                                                                   +---------- L longipes
+|         |                                                                   |
+|         |                                                                   +---------- L caldera
+|         |                                                                   |
+|         |                                                                   |    /----- L tofo
+|         |                                                                   |    |
+|         |                                                                   +--103----- L paposo
+|         |                                                                   |    |
+|         |                                                             /---105    \----- L quilicur
+|         |                                                             |     |
+|         |                                                             |     +---------- L frayjorg
+|         |                                                             |     |
+|         |                                                             |     +---------- L epipiptu
+|         |                                                             |     |
+|         |                                                             |     +---------- L domeyko
+|         |                                                        /--108     |
+|         |                                                        |    |     |    /----- D ornatus
+|         |                                                        |    |     \--104
+|         |                                                        |    |          \----- D bonarien
+|         |                                                        |    |
+|         |                                                        |    |          /----- Chil calde
+|         |                                                   /--109    |     /--106
+|         |                                                   |    |    |     |    \----- Chil puert
+|         |                                                   |    |    \---107
+|         |                                                   |    |          \---------- Chil 553
+|         |                                                   |    |
+|         |                                              /--116    \--------------------- Flamenco
+|         |                                              |    |
+|         |                                              |    |                    /----- Prorachias
+|         |                                              |    |    /-------------110
+|         |                                              |    |    |               \----- Pselligmus
+|         |                                              |    |    |
+|         |                                              |    \--115               /----- Barychelin
+|         |                                              |         |    /--------111
+|         |                                              |         |    |          \----- Trichopelm
+|         |                                              |         \--114
+|         |                                         /--123              |     /---------- Neod para
+|         |                                         |    |              |     |
+|         |                                         |    |              \---113    /----- Neod irre
+|         |                                         |    |                    \--112
+|         |                                         |    |                         \----- Cosmopel
+|         |                                         |    |
+|         |                                         |    |                         /----- Cha obscu
+|    /--143                                         |    |         /-------------117
+|    |    |                                         |    |         |               \----- Cha tucu
+|    |    |                                         |    |         |
+|    |    |                                         |    \-------122               /----- Cha socos
+|    |    |                                    /--126              |    /--------118
+|    |    |                                    |    |              |    |          \----- Cha tigre
+|    |    |                                    |    |              |    |
+|    |    |                                    |    |              \--121          /----- Cha pata
+|    |    |                                    |    |                   |     /--119
+|    |    |                                    |    |                   |     |    \----- Cha sanju
+|    |    |                                    |    |                   \---120
+|    |    |                                    |    |                         \---------- Cha tecka
+|    |    |                                    |    |
+|    |    |                                    |    |                              /----- Pyc modes
+|    |    |                                    |    |                         /--124
+|    |    |                                    |    |                         |    \----- Pyc perdi
+|    |    |                                    |    \-----------------------125
+|    |    |                              /---131                              \---------- Pyc new
+|    |    |                              |     |
+|    |    |                              |     |                                   /----- St platen
+|    |    |                              |     |                                   |
+|    |    |                              |     |                                   +----- St palmar
+|    |    |                              |     |                                   |
+|    |    |                              |     |                                   +----- St crassi
+|    |    |                              |     |                        /--------127
+|    |    |                              |     |                        |          +----- St lepo
+|    |    |                              |     |                        |          |
+|    |    |                         /--132     |                        |          +----- St cf.lepo
+|    |    |                         |    |     |                        |          |
+|    |    |                         |    |     \----------------------130          \----- H luderdw
+|    |    |                         |    |                              |
+\--144    |                         |    |                              |          /----- Rac timbo
+     |    |                         |    |                              |     /--128
+     |    |                         |    |                              |     |    \----- Rac pira
+     |    |                    /--135    |                              \---129
+     |    |                    |    |    |                                    \---------- Rac new
+     |    |                    |    |    |
+     |    |                    |    |    \----------------------------------------------- MICROST s.
+     |    |                    |    |
+     |    |                    |    |                                         /---------- Nemesia
+     |    |               /--136    |                                         |
+     |    |               |    |    \---------------------------------------134    /----- Aporoptych
+     |    |               |    |                                              \--133
+     |    |               |    |                                                   \----- Cyrtauchen
+     |    |               |    |
+     |    |               |    +--------------------------------------------------------- Calisoga
+     |    |               |    |
+     |    |          /--140    \--------------------------------------------------------- Damarchus
+     |    |          |    |
+     |    |          |    |                                                        /----- Theraphosi
+     |    |          |    |                                                   /--137
+     |    |          |    |                                                   |    \----- Glabropelm
+     |    |     /--141    |                                             /---138
+     |    |     |    |    \-------------------------------------------139     \---------- Ischnocoli
+     |    |     |    |                                                  |
+     |    \---142    |                                                  \---------------- Paratropi
+     |          |    |
+     |          |    \------------------------------------------------------------------- Anamini
+     |          |
+     |          \------------------------------------------------------------------------ Ixamatus
+     |
+     \----------------------------------------------------------------------------------- Mexentypes
+
+
+
+  
+Apomorphy lists:
+
+       Branch           Character                                     Steps      CI   Change
+--------------------------------------------------------------------------------------------
+node_144 <-> Diplurines 2 (fovea)                                         1   0.667  1 <=> 0
+                        10 (sternum)                                      1   0.286  1 <=> 0
+                        18 (labium)                                       1   0.286  2 <=> 1
+                        31 (female tarsi)                                 1   0.200  0 <=> 1
+                        41 (scopula posterior)                            1   0.118  0 <=> 1
+                        93 (male embolus)                                 1   0.222  1 <-> 2
+                        102 (habits)                                      1   0.444  1 <-> 0
+node_144 --> node_143   50 (spigot types)                                 1   0.429  1 ==> 2
+                        57 (meta IV)                                      1   0.273  0 ==> 1
+                        77 (male metatarsal knob)                         1   1.000  1 ==> 0
+node_143 --> node_102   29 (male chelic tum)                              1   0.333  0 ==> 1
+                        51 (inner row of pumpks)                          1   0.286  0 ==> 1
+node_102 --> node_100   2 (fovea)                                         1   0.667  1 ==> 0
+                        79 (male spur)                                    1   0.308  1 ==> 2
+                        82 (male plp dorsal setae)                        1   1.000  0 ==> 1
+node_100 --> node_95    31 (female tarsi)                                 1   0.200  0 ==> 1
+                        41 (scopula posterior)                            1   0.118  0 ==> 1
+                        57 (meta IV)                                      1   0.273  1 ==> 0
+ node_95 --> node_94    41 (scopula posterior)                            1   0.118  1 ==> 2
+ node_94 --> node_92    32 (ITC in)                                       1   0.143  0 ==> 1
+                        88 (male bulb keels)                              1   0.222  0 --> 2
+ node_92 --> node_85    23 (maxillary cuspules)                           1   0.143  1 ==> 2
+ node_85 --> A incursa  36 (Claw tufts)                                   1   0.250  0 ==> 1
+                        56 (patella III)                                  1   0.200  0 ==> 1
+ node_92 --> node_91    32 (ITC in)                                       1   0.143  1 ==> 2
+ node_91 --> A pissii   51 (inner row of pumpks)                          1   0.286  1 ==> 0
+                        80 (male plp ti)                                  1   0.118  1 ==> 0
+                        98 (female spermathecal types)                    1   0.250  0 --> 1
+ node_91 --> node_90    28 (rastellum)                                    1   0.222  0 ==> 1
+                        56 (patella III)                                  1   0.200  0 ==> 1
+ node_90 --> node_89    69 (male pat I-II)                                1   0.167  0 ==> 1
+                        98 (female spermathecal types)                    1   0.250  0 --> 1
+                        102 (habits)                                      1   0.444  1 ==> 2
+ node_89 --> node_87    59 (preening-combs)                               1   0.200  0 ==> 2
+ node_87 --> node_86    71 (female patella IV)                            1   0.250  0 ==> 1
+                        79 (male spur)                                    1   0.308  2 ==> 4
+                        90 (male bulb shape)                              1   0.167  0 ==> 1
+ node_86 --> A franckii 41 (scopula posterior)                            2   0.118  2 ==> 0
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 ==> 1
+                        64 (male d ti I)                                  1   0.200  0 ==> 1
+                        69 (male pat I-II)                                1   0.167  1 ==> 0
+ node_86 --> A penasco  49 (PLS apical article)                           1   0.250  0 ==> 1
+ node_86 --> A recinto  93 (male embolus)                                 1   0.222  1 ==> 0
+ node_87 --> A juncal   56 (patella III)                                  1   0.200  1 ==> 0
+ node_89 --> node_88    27 (serrula)                                      1   0.222  0 ==> 1
+                        49 (PLS apical article)                           1   0.250  0 ==> 1
+                        81 (!male plp pa/ti joint)                        1   1.000  0 ==> 1
+                        91 (male bulb duct)                               1   0.143  0 ==> 1
+ node_88 --> A chilechi 56 (patella III)                                  1   0.200  1 ==> 0
+                        80 (male plp ti)                                  1   0.118  1 --> 0
+ node_88 --> A fuegiana 27 (serrula)                                      1   0.222  1 ==> 0
+                        57 (meta IV)                                      1   0.273  0 ==> 1
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 ==> 1
+                        64 (male d ti I)                                  1   0.200  0 ==> 1
+                        66 (male pat I)                                   1   0.200  0 --> 1
+                        79 (male spur)                                    1   0.308  2 ==> 4
+                        93 (male embolus)                                 1   0.222  1 ==> 2
+                        98 (female spermathecal types)                    1   0.250  1 ==> 0
+ node_88 --> A patagoni 64 (male d ti I)                                  1   0.200  0 ==> 1
+                        66 (male pat I)                                   1   0.200  0 --> 1
+ node_88 --> A notata   41 (scopula posterior)                            1   0.118  2 ==> 1
+                        57 (meta IV)                                      1   0.273  0 ==> 1
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 ==> 1
+                        66 (male pat I)                                   1   0.200  0 --> 1
+                        80 (male plp ti)                                  1   0.118  1 --> 0
+ node_88 --> A birabeni 41 (scopula posterior)                            1   0.118  2 ==> 1
+                        69 (male pat I-II)                                1   0.167  1 ==> 0
+                        80 (male plp ti)                                  1   0.118  1 --> 0
+ node_90 --> A central  88 (male bulb keels)                              1   0.222  2 ==> 0
+ node_90 --> A tacuarie 98 (female spermathecal types)                    1   0.250  0 --> 1
+ node_92 --> A confusa  79 (male spur)                                    1   0.308  2 ==> 4
+                        80 (male plp ti)                                  1   0.118  1 ==> 2
+ node_94 --> node_93    8 (pubescence)                                    1   0.167  1 ==> 0
+                        95 (female sperm1)                                1   1.000  0 ==> 1
+ node_93 --> A Mulche   10 (sternum)                                      1   0.286  1 ==> 2
+ node_95 --> A campanae 59 (preening-combs)                               1   0.200  0 ==> 1
+node_100 --> node_99    8 (pubescence)                                    1   0.167  1 ==> 0
+ node_99 --> A guttulat 14 (leg color)                                    1   0.200  0 ==> 1
+                        28 (rastellum)                                    1   0.222  0 ==> 1
+                        34 (female STC IV teeth)                          1   0.500  0 ==> 1
+                        56 (patella III)                                  1   0.200  0 ==> 1
+                        80 (male plp ti)                                  1   0.118  1 ==> 2
+                        102 (habits)                                      1   0.444  1 ==> 2
+ node_99 --> node_98    96 (female sperm2)                                1   1.000  0 ==> 1
+ node_98 --> node_97    30 (male tarsi flexuous)                          1   0.143  1 --> 0
+                        57 (meta IV)                                      1   0.273  1 ==> 0
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 --> 1
+                        67 (male Ti I)                                    1   0.500  0 --> 1
+                        68 (male meta II)                                 1   1.000  0 --> 1
+                        88 (male bulb keels)                              1   0.222  0 --> 2
+                        97 (female further thickening of sperm)           1   1.000  0 ==> 1
+ node_97 --> node_96    10 (sternum)                                      1   0.286  1 ==> 0
+                        69 (male pat I-II)                                1   0.167  0 ==> 1
+                        93 (male embolus)                                 1   0.222  1 ==> 0
+ node_96 --> A nahuelbu 56 (patella III)                                  1   0.200  0 ==> 1
+ node_98 --> A vilches  59 (preening-combs)                               1   0.200  0 ==> 1
+node_102 --> node_101   59 (preening-combs)                               1   0.200  0 ==> 1
+node_101 --> Stanwellia 10 (sternum)                                      1   0.286  1 ==> 0
+                        41 (scopula posterior)                            1   0.118  0 ==> 1
+                        79 (male spur)                                    1   0.308  1 ==> 4
+node_101 --> Hermacha   28 (rastellum)                                    1   0.222  0 ==> 1
+                        30 (male tarsi flexuous)                          1   0.143  1 ==> 0
+                        69 (male pat I-II)                                1   0.167  0 ==> 1
+node_143 --> node_142   30 (male tarsi flexuous)                          1   0.143  1 ==> 0
+node_142 --> node_141   8 (pubescence)                                    1   0.167  1 ==> 0
+node_141 --> node_140   27 (serrula)                                      2   0.222  0 ==> 2
+node_140 --> node_136   28 (rastellum)                                    1   0.222  0 ==> 1
+                        102 (habits)                                      1   0.444  1 ==> 2
+node_136 --> node_135   49 (PLS apical article)                           2   0.250  0 ==> 2
+node_135 --> node_132   27 (serrula)                                      1   0.222  2 --> 1
+                        29 (male chelic tum)                              1   0.333  0 --> 1
+                        56 (patella III)                                  1   0.200  0 ==> 1
+                        57 (meta IV)                                      1   0.273  1 ==> 0
+node_132 --> node_131   8 (pubescence)                                    1   0.167  0 --> 1
+                        30 (male tarsi flexuous)                          1   0.143  0 ==> 1
+                        32 (ITC in)                                       1   0.143  0 ==> 1
+                        88 (male bulb keels)                              1   0.222  0 ==> 1
+                        90 (male bulb shape)                              1   0.167  0 ==> 1
+node_131 --> node_126   5 (clypeus)                                       1   0.500  1 ==> 0
+                        41 (scopula posterior)                            1   0.118  0 ==> 1
+node_126 --> node_123   50 (spigot types)                                 1   0.429  2 ==> 1
+                        57 (meta IV)                                      1   0.273  0 ==> 1
+                        102 (habits)                                      1   0.444  2 ==> 4
+node_123 --> node_116   28 (rastellum)                                    1   0.222  1 ==> 2
+                        47 (tarsal organ)                                 1   0.400  0 ==> 1
+                        79 (male spur)                                    1   0.308  1 --> 4
+                        90 (male bulb shape)                              1   0.167  1 ==> 0
+node_116 --> node_109   6 (PE row)                                        1   1.000  0 ==> 1
+                        7 (AME and PME)                                   1   0.333  0 ==> 1
+                        102 (habits)                                      1   0.444  4 ==> 3
+node_109 --> node_108   64 (male d ti I)                                  1   0.200  0 ==> 1
+                        69 (male pat I-II)                                1   0.167  0 ==> 1
+node_108 --> node_105   8 (pubescence)                                    1   0.167  1 ==> 2
+                        23 (maxillary cuspules)                           1   0.143  1 ==> 0
+                        31 (female tarsi)                                 1   0.200  0 ==> 1
+                        32 (ITC in)                                       1   0.143  1 ==> 2
+                        41 (scopula posterior)                            1   0.118  1 ==> 2
+                        46 (male cymbial trichobothria)                   1   1.000  0 ==> 1
+                        47 (tarsal organ)                                 1   0.400  1 ==> 0
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 --> 1
+                        65 (male, dorsal spines on posterior tibiae)      1   1.000  0 ==> 1
+                        66 (male pat I)                                   1   0.200  0 --> 1
+                        71 (female patella IV)                            1   0.250  0 ==> 1
+                        86 (male cymbial setae, thickness:)               1   1.000  0 ==> 1
+                        90 (male bulb shape)                              1   0.167  0 ==> 1
+                        103 (burrow entrance)                             1   1.000  0 ==> 1
+node_105 --> L gajardoi 41 (scopula posterior)                            1   0.118  2 ==> 1
+                        59 (preening-combs)                               1   0.200  0 ==> 2
+                        80 (male plp ti)                                  1   0.118  1 ==> 0
+                        84 (cymbium narrow, asymmetric)                   1   1.000  0 ==> 1
+                        87 (male cymbial setae, direction)                1   0.500  0 ==> 1
+node_105 --> L longipes 10 (sternum)                                      1   0.286  1 ==> 0
+                        31 (female tarsi)                                 1   0.200  1 ==> 0
+                        93 (male embolus)                                 1   0.222  1 --> 0
+                        103 (burrow entrance)                             1   1.000  1 ==> 2
+node_105 --> L caldera  23 (maxillary cuspules)                           1   0.143  0 ==> 1
+                        80 (male plp ti)                                  1   0.118  1 ==> 0
+                        85 (cymbium big)                                  1   1.000  0 ==> 1
+                        87 (male cymbial setae, direction)                1   0.500  0 ==> 1
+                        93 (male embolus)                                 1   0.222  1 --> 0
+node_105 --> node_103   63 (male, setae on palpal tibia)                  1   1.000  0 ==> 1
+                        93 (male embolus)                                 1   0.222  1 ==> 2
+node_105 --> L frayjorg 23 (maxillary cuspules)                           1   0.143  0 ==> 1
+node_105 --> L epipiptu 93 (male embolus)                                 1   0.222  1 --> 0
+node_105 --> L domeyko  93 (male embolus)                                 1   0.222  1 --> 0
+node_105 --> node_104   10 (sternum)                                      1   0.286  1 ==> 0
+                        53 (PMS)                                          1   0.500  0 ==> 1
+                        61 (male plp ti, dorsal spines)                   1   0.091  1 ==> 0
+                        74 (female tibia III)                             1   1.000  0 ==> 1
+                        88 (male bulb keels)                              1   0.222  1 ==> 0
+                        90 (male bulb shape)                              1   0.167  1 ==> 0
+node_108 --> node_107   16 (female post legs setae)                       1   0.500  0 ==> 1
+                        45 (bothria)                                      1   0.500  0 --> 1
+                        59 (preening-combs)                               1   0.200  0 ==> 1
+                        73 (female meta IV spines)                        1   1.000  0 ==> 1
+node_107 --> node_106   23 (maxillary cuspules)                           1   0.143  1 ==> 2
+                        28 (rastellum)                                    1   0.222  2 ==> 1
+                        66 (male pat I)                                   1   0.200  0 --> 1
+                        67 (male Ti I)                                    1   0.500  0 ==> 1
+                        80 (male plp ti)                                  1   0.118  1 ==> 0
+                        88 (male bulb keels)                              1   0.222  1 ==> 2
+node_106 --> Chil calde 91 (male bulb duct)                               1   0.143  0 ==> 1
+node_106 --> Chil puert 64 (male d ti I)                                  1   0.200  1 ==> 0
+node_107 --> Chil 553   52 (spigots on basal article of PLS)              1   0.250  0 ==> 1
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 --> 1
+node_109 --> Flamenco   45 (bothria)                                      1   0.500  0 --> 1
+                        52 (spigots on basal article of PLS)              1   0.250  0 ==> 1
+                        54 (PMS spigot number)                            1   0.500  0 ==> 1
+                        80 (male plp ti)                                  1   0.118  1 ==> 0
+                        88 (male bulb keels)                              1   0.222  1 ==> 2
+node_116 --> node_115   27 (serrula)                                      1   0.222  1 ==> 2
+                        38 (asymmetric scopula)                           1   0.333  0 ==> 1
+node_115 --> node_110   8 (pubescence)                                    1   0.167  1 ==> 0
+                        39 (scopula anterior tibiae)                      1   0.250  0 ==> 1
+                        41 (scopula posterior)                            1   0.118  1 ==> 0
+                        57 (meta IV)                                      1   0.273  1 ==> 0
+                        59 (preening-combs)                               1   0.200  0 ==> 1
+node_110 --> Prorachias 9 (sternum shape)                                 1   0.333  1 ==> 0
+                        32 (ITC in)                                       1   0.143  1 ==> 0
+                        70 (plp tarsus)                                   1   0.250  0 ==> 1
+                        72 (female meta II)                               1   1.000  0 ==> 1
+                        80 (male plp ti)                                  1   0.118  1 --> 2
+                        90 (male bulb shape)                              1   0.167  0 ==> 1
+node_110 --> Pselligmus 28 (rastellum)                                    1   0.222  2 ==> 1
+node_115 --> node_114   32 (ITC in)                                       1   0.143  1 ==> 2
+                        35 (STC)                                          1   0.667  0 ==> 1
+                        36 (Claw tufts)                                   1   0.250  0 ==> 1
+                        42 (clavate trics)                                1   0.500  0 ==> 1
+                        43 (double tric row)                              1   0.400  0 ==> 1
+                        44 (basal trics meta I-II)                        1   0.500  0 ==> 1
+                        50 (spigot types)                                 1   0.429  1 ==> 2
+node_114 --> node_111   48 (book-lung combs)                              1   0.500  0 ==> 1
+                        79 (male spur)                                    1   0.308  4 ==> 0
+                        88 (male bulb keels)                              1   0.222  1 --> 0
+node_111 --> Barychelin 9 (sternum shape)                                 1   0.333  1 ==> 0
+                        29 (male chelic tum)                              1   0.333  1 ==> 0
+                        30 (male tarsi flexuous)                          1   0.143  1 ==> 0
+                        50 (spigot types)                                 1   0.429  2 ==> 3
+                        71 (female patella IV)                            1   0.250  0 ==> 1
+node_111 --> Trichopelm 18 (labium)                                       1   0.286  2 ==> 1
+                        19 (labial cuspules)                              1   0.333  0 ==> 1
+                        26 (posterior edge of plp coxae)                  1   0.250  0 --> 1
+                        38 (asymmetric scopula)                           1   0.333  1 ==> 0
+node_114 --> node_113   15 (tarsal modified setae)                        1   1.000  0 ==> 1
+                        26 (posterior edge of plp coxae)                  1   0.250  0 --> 1
+                        56 (patella III)                                  1   0.200  1 ==> 0
+                        92 (bulb coiling)                                 1   1.000  0 ==> 1
+node_113 --> Neod para  23 (maxillary cuspules)                           1   0.143  1 --> 0
+                        39 (scopula anterior tibiae)                      1   0.250  0 ==> 1
+                        88 (male bulb keels)                              1   0.222  1 --> 0
+node_113 --> node_112   14 (leg color)                                    1   0.200  0 ==> 1
+                        35 (STC)                                          1   0.667  1 ==> 3
+node_112 --> Neod irre  23 (maxillary cuspules)                           1   0.143  1 --> 0
+                        53 (PMS)                                          1   0.500  0 ==> 1
+node_112 --> Cosmopel   19 (labial cuspules)                              1   0.333  0 ==> 1
+                        23 (maxillary cuspules)                           1   0.143  1 ==> 2
+                        41 (scopula posterior)                            1   0.118  1 ==> 0
+                        48 (book-lung combs)                              1   0.500  0 ==> 1
+                        79 (male spur)                                    1   0.308  4 ==> 0
+                        80 (male plp ti)                                  1   0.118  1 ==> 0
+node_123 --> node_122   14 (leg color)                                    1   0.200  0 ==> 1
+                        32 (ITC in)                                       1   0.143  1 ==> 2
+                        79 (male spur)                                    1   0.308  1 --> 3
+node_122 --> node_117   31 (female tarsi)                                 1   0.200  0 ==> 1
+                        91 (male bulb duct)                               1   0.143  0 --> 1
+node_122 --> node_121   52 (spigots on basal article of PLS)              1   0.250  0 ==> 1
+                        54 (PMS spigot number)                            1   0.500  0 ==> 1
+                        76 (female tibiae/meta I spines)                  1   1.000  0 ==> 1
+                        99 (female sperm)                                 1   0.500  0 ==> 1
+node_121 --> node_118   5 (clypeus)                                       1   0.500  0 ==> 1
+                        91 (male bulb duct)                               1   0.143  0 --> 1
+node_118 --> Cha socos  61 (male plp ti, dorsal spines)                   1   0.091  0 ==> 1
+node_121 --> node_120   11 (sternal sigilla)                              1   1.000  0 ==> 1
+                        16 (female post legs setae)                       1   0.500  0 ==> 1
+                        41 (scopula posterior)                            1   0.118  1 ==> 0
+                        102 (habits)                                      1   0.444  4 ==> 3
+node_120 --> node_119   8 (pubescence)                                    1   0.167  1 ==> 0
+                        14 (leg color)                                    1   0.200  1 ==> 0
+                        75 (female tarsi IV spines)                       1   0.500  0 ==> 1
+node_119 --> Cha sanju  80 (male plp ti)                                  1   0.118  1 --> 0
+node_120 --> Cha tecka  7 (AME and PME)                                   1   0.333  0 ==> 1
+node_126 --> node_125   80 (male plp ti)                                  1   0.118  1 ==> 0
+                        83 (male palpal tibia)                            1   1.000  0 ==> 1
+                        89 (male bulb)                                    1   1.000  0 ==> 1
+node_125 --> node_124   8 (pubescence)                                    1   0.167  1 ==> 2
+                        32 (ITC in)                                       1   0.143  1 ==> 2
+                        39 (scopula anterior tibiae)                      1   0.250  0 --> 1
+                        71 (female patella IV)                            1   0.250  0 ==> 1
+                        79 (male spur)                                    1   0.308  1 --> 4
+                        94 (female genitalia)                             1   1.000  0 --> 1
+node_124 --> Pyc perdi  7 (AME and PME)                                   1   0.333  0 ==> 1
+                        43 (double tric row)                              1   0.400  0 ==> 1
+                        57 (meta IV)                                      1   0.273  0 ==> 3
+node_125 --> Pyc new    51 (inner row of pumpks)                          1   0.286  0 ==> 1
+                        59 (preening-combs)                               1   0.200  0 ==> 1
+node_131 --> node_130   51 (inner row of pumpks)                          1   0.286  0 ==> 1
+                        59 (preening-combs)                               1   0.200  0 ==> 1
+node_130 --> node_127   23 (maxillary cuspules)                           1   0.143  1 ==> 2
+                        49 (PLS apical article)                           1   0.250  2 ==> 1
+                        60 (preening-combs in II)                         1   1.000  0 ==> 1
+node_127 --> St platen  41 (scopula posterior)                            1   0.118  0 ==> 1
+                        100 (spermathecae)                                1   1.000  0 ==> 1
+node_127 --> St palmar  32 (ITC in)                                       1   0.143  1 ==> 0
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 ==> 1
+                        91 (male bulb duct)                               1   0.143  0 ==> 1
+node_127 --> St crassi  32 (ITC in)                                       1   0.143  1 ==> 0
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 ==> 1
+                        80 (male plp ti)                                  1   0.118  1 ==> 0
+                        91 (male bulb duct)                               1   0.143  0 ==> 1
+node_127 --> St lepo    51 (inner row of pumpks)                          1   0.286  1 ==> 2
+                        78 (male apical meta)                             1   0.500  0 ==> 1
+node_127 --> St cf.lepo 51 (inner row of pumpks)                          1   0.286  1 ==> 2
+                        78 (male apical meta)                             1   0.500  0 ==> 1
+node_127 --> H luderdw  32 (ITC in)                                       1   0.143  1 ==> 0
+                        51 (inner row of pumpks)                          1   0.286  1 ==> 2
+node_130 --> node_129   8 (pubescence)                                    1   0.167  1 --> 0
+                        18 (labium)                                       1   0.286  2 ==> 1
+                        22 (palpal coxae)                                 1   0.500  0 ==> 1
+                        23 (maxillary cuspules)                           1   0.143  1 ==> 0
+                        25 (setae maxillary heel)                         1   1.000  0 ==> 1
+                        26 (posterior edge of plp coxae)                  1   0.250  0 ==> 1
+                        40 (scopula IV)                                   1   0.500  0 ==> 1
+                        61 (male plp ti, dorsal spines)                   1   0.091  0 ==> 1
+                        70 (plp tarsus)                                   1   0.250  0 ==> 1
+node_129 --> node_128   34 (female STC IV teeth)                          1   0.500  0 --> 1
+                        75 (female tarsi IV spines)                       1   0.500  0 ==> 1
+                        79 (male spur)                                    1   0.308  1 ==> 4
+                        104 (silk lined burrow)                           1   1.000  0 ==> 1
+node_128 --> Rac timbo  80 (male plp ti)                                  1   0.118  1 ==> 2
+                        99 (female sperm)                                 1   0.500  0 ==> 1
+node_128 --> Rac pira   43 (double tric row)                              1   0.400  0 ==> 1
+                        49 (PLS apical article)                           1   0.250  2 ==> 1
+node_129 --> Rac new    32 (ITC in)                                       1   0.143  1 ==> 2
+                        91 (male bulb duct)                               1   0.143  0 ==> 1
+node_132 --> MICROST s. 23 (maxillary cuspules)                           1   0.143  1 ==> 0
+                        37 (scopula)                                      1   0.500  1 ==> 0
+                        47 (tarsal organ)                                 1   0.400  0 ==> 2
+                        52 (spigots on basal article of PLS)              1   0.250  0 ==> 1
+node_135 --> node_134   2 (fovea)                                         1   0.667  1 ==> 2
+                        28 (rastellum)                                    1   0.222  1 ==> 2
+node_134 --> Nemesia    23 (maxillary cuspules)                           1   0.143  1 ==> 0
+                        39 (scopula anterior tibiae)                      1   0.250  0 ==> 1
+                        50 (spigot types)                                 1   0.429  2 ==> 1
+                        70 (plp tarsus)                                   1   0.250  0 --> 1
+                        102 (habits)                                      1   0.444  2 --> 4
+node_134 --> node_133   1 (thorax)                                        1   1.000  1 ==> 0
+                        3 (caput)                                         1   1.000  0 ==> 1
+                        4 (eye tubercle)                                  1   1.000  1 ==> 0
+                        12 (ant legs)                                     1   1.000  0 ==> 1
+                        13 (female tarsi stout)                           1   1.000  0 ==> 1
+                        55 (dorsal spines post legs)                      1   1.000  0 ==> 1
+                        56 (patella III)                                  1   0.200  0 ==> 2
+node_133 --> Aporoptych 10 (sternum)                                      1   0.286  1 ==> 2
+                        18 (labium)                                       1   0.286  2 --> 0
+                        22 (palpal coxae)                                 1   0.500  0 ==> 1
+                        27 (serrula)                                      1   0.222  2 ==> {01}
+                        40 (scopula IV)                                   1   0.500  0 ==> 1
+                        49 (PLS apical article)                           2   0.250  2 ==> 0
+node_133 --> Cyrtauchen 9 (sternum shape)                                 1   0.333  1 ==> 0
+                        18 (labium)                                       1   0.286  2 --> 1
+                        38 (asymmetric scopula)                           1   0.333  0 ==> 1
+                        43 (double tric row)                              1   0.400  0 ==> 2
+                        57 (meta IV)                                      1   0.273  1 --> 2
+                        70 (plp tarsus)                                   1   0.250  0 --> 1
+                        80 (male plp ti)                                  1   0.118  1 ==> 0
+                        102 (habits)                                      1   0.444  2 --> 4
+node_136 --> Calisoga   8 (pubescence)                                    1   0.167  0 ==> 1
+                        30 (male tarsi flexuous)                          1   0.143  0 ==> 1
+                        50 (spigot types)                                 1   0.429  2 ==> 1
+node_136 --> Damarchus  35 (STC)                                          1   0.667  0 ==> 4
+                        56 (patella III)                                  1   0.200  0 ==> 1
+                        59 (preening-combs)                               1   0.200  0 ==> 1
+                        101 (post-genital opening)                        1   1.000  0 ==> 1
+node_140 --> node_139   18 (labium)                                       1   0.286  2 ==> 1
+                        19 (labial cuspules)                              1   0.333  0 ==> 1
+                        21 (maxillary lobe)                               1   1.000  0 ==> 1
+                        23 (maxillary cuspules)                           1   0.143  1 ==> 2
+                        43 (double tric row)                              1   0.400  0 ==> 1
+node_139 --> node_138   8 (pubescence)                                    1   0.167  0 ==> 2
+                        36 (Claw tufts)                                   1   0.250  0 ==> 1
+                        42 (clavate trics)                                1   0.500  0 ==> 1
+                        44 (basal trics meta I-II)                        1   0.500  0 ==> 1
+                        79 (male spur)                                    1   0.308  1 --> 0
+node_138 --> node_137   32 (ITC in)                                       2   0.143  0 ==> 2
+                        35 (STC)                                          1   0.667  0 --> 3
+node_137 --> Theraphosi 37 (scopula)                                      1   0.500  1 ==> 2
+                        41 (scopula posterior)                            1   0.118  0 --> 1
+node_137 --> Glabropelm 8 (pubescence)                                    1   0.167  2 ==> 1
+                        17 (big labium)                                   1   0.500  0 ==> 1
+                        20 (maxilla)                                      1   0.500  0 ==> 1
+                        58 (tarsi)                                        1   0.500  0 ==> 1
+node_138 --> Ischnocoli 27 (serrula)                                      2   0.222  2 ==> 0
+                        30 (male tarsi flexuous)                          1   0.143  0 ==> 1
+                        35 (STC)                                          1   0.667  0 --> 1
+                        41 (scopula posterior)                            1   0.118  0 --> 1
+                        57 (meta IV)                                      1   0.273  1 --> 0
+node_139 --> Paratropi  17 (big labium)                                   1   0.500  0 ==> 1
+                        20 (maxilla)                                      1   0.500  0 ==> 1
+                        33 (ITC pres)                                     1   1.000  0 ==> 1
+                        35 (STC)                                          1   0.667  0 --> 2
+                        37 (scopula)                                      1   0.500  1 ==> 0
+                        47 (tarsal organ)                                 1   0.400  0 ==> 2
+                        50 (spigot types)                                 1   0.429  2 ==> 0
+                        58 (tarsi)                                        1   0.500  0 ==> 1
+                        79 (male spur)                                    1   0.308  1 --> 4
+node_141 --> Anamini    24 (cuspules extending onto heel)                 1   1.000  0 ==> 1
+                        26 (posterior edge of plp coxae)                  1   0.250  0 ==> 1
+node_142 --> Ixamatus   18 (labium)                                       1   0.286  2 ==> 1
+                        37 (scopula)                                      1   0.500  1 ==> 0
+                        47 (tarsal organ)                                 1   0.400  0 ==> 2
+node_144 --> Mexentypes 14 (leg color)                                    1   0.200  0 ==> 1
+                        23 (maxillary cuspules)                           1   0.143  1 ==> 0
+                        28 (rastellum)                                    1   0.222  0 ==> 1
+                        36 (Claw tufts)                                   1   0.250  0 ==> 1
+                        62 (male cymbial spines)                          1   1.000  1 --> 0
+
+Character diagnostics:
+
+                                                    Min   Tree    Max                             G-
+Character                                  Range  steps  steps  steps     CI    RI    RC    HI   fit
+----------------------------------------------------------------------------------------------------
+1 (thorax)                                     1      1      1      2  1.000 1.000 1.000 0.000 1.000
+2 (fovea)                                      2      2      3     31  0.667 0.966 0.644 0.333 0.750
+3 (caput)                                      1      1      1      2  1.000 1.000 1.000 0.000 1.000
+4 (eye tubercle)                               1      1      1      2  1.000 1.000 1.000 0.000 1.000
+5 (clypeus)                                    1      1      2     30  0.500 0.966 0.483 0.500 0.750
+6 (PE row)                                     1      1      1     15  1.000 1.000 1.000 0.000 1.000
+7 (AME and PME)                                1      1      3     17  0.333 0.875 0.292 0.667 0.600
+8 (pubescence)                                 2      2     12     37  0.167 0.714 0.119 0.833 0.231
+9 (sternum shape)                              1      1      3      3  0.333 0.000 0.000 0.667 0.600
+10 (sternum)                                   2      2      7      9  0.286 0.286 0.082 0.714 0.375
+11 (sternal sigilla)                           1      1      1      3  1.000 1.000 1.000 0.000 1.000
+12 (ant legs)                                  1      1      1      2  1.000 1.000 1.000 0.000 1.000
+13 (female tarsi stout)                        1      1      1      2  1.000 1.000 1.000 0.000 1.000
+14 (leg color)                                 1      1      5      9  0.200 0.500 0.100 0.800 0.429
+15 (tarsal modified setae)                     1      1      1      3  1.000 1.000 1.000 0.000 1.000
+16 (female post legs setae)                    1      1      2      6  0.500 0.800 0.400 0.500 0.750
+17 (big labium)                                1      1      2      2  0.500 0.000 0.000 0.500 0.750
+18 (labium)                                    2      2      7     12  0.286 0.500 0.143 0.714 0.375
+19 (labial cuspules)                           1      1      3      6  0.333 0.600 0.200 0.667 0.600
+20 (maxilla)                                   1      1      2      2  0.500 0.000 0.000 0.500 0.750
+21 (maxillary lobe)                            1      1      1      4  1.000 1.000 1.000 0.000 1.000
+22 (palpal coxae)                              1      1      2      4  0.500 0.667 0.333 0.500 0.750
+23 (maxillary cuspules)                        2      2     14     32  0.143 0.600 0.086 0.857 0.200
+24 (cuspules extending onto heel)              1      1      1      1  1.000   0/0   0/0 0.000 1.000
+25 (setae maxillary heel)                      1      1      1      3  1.000 1.000 1.000 0.000 1.000
+26 (posterior edge of plp coxae)               1      1      4      8  0.250 0.571 0.143 0.750 0.500
+27 (serrula)                                   2      2      9     43  0.222 0.829 0.184 0.778 0.300
+28 (rastellum)                                 2      2      9     40  0.222 0.816 0.181 0.778 0.300
+29 (male chelic tum)                           1      1      3     12  0.333 0.818 0.273 0.667 0.600
+30 (male tarsi flexuous)                       1      1      7     13  0.143 0.500 0.071 0.857 0.333
+31 (female tarsi)                              1      1      5     33  0.200 0.875 0.175 0.800 0.429
+32 (ITC in)                                    2      2     14     68  0.143 0.818 0.117 0.857 0.200
+33 (ITC pres)                                  1      1      1      1  1.000   0/0   0/0 0.000 1.000
+34 (female STC IV teeth)                       1      1      2      3  0.500 0.500 0.250 0.500 0.750
+35 (STC)                                       4      4      6     10  0.667 0.667 0.444 0.333 0.600
+36 (Claw tufts)                                1      1      4     10  0.250 0.667 0.167 0.750 0.500
+37 (scopula)                                   2      2      4      4  0.500 0.000 0.000 0.500 0.600
+38 (asymmetric scopula)                        1      1      3      7  0.333 0.667 0.222 0.667 0.600
+39 (scopula anterior tibiae)                   1      1      4      6  0.250 0.400 0.100 0.750 0.500
+40 (scopula IV)                                1      1      2      4  0.500 0.667 0.333 0.500 0.750
+41 (scopula posterior)                         2      2     17     60  0.118 0.741 0.087 0.882 0.167
+42 (clavate trics)                             1      1      2      8  0.500 0.857 0.429 0.500 0.750
+43 (double tric row)                           2      2      5     12  0.400 0.700 0.280 0.600 0.500
+44 (basal trics meta I-II)                     1      1      2      8  0.500 0.857 0.429 0.500 0.750
+45 (bothria)                                   1      1      2      4  0.500 0.667 0.333 0.500 0.750
+46 (male cymbial trichobothria)                1      1      1     10  1.000 1.000 1.000 0.000 1.000
+47 (tarsal organ)                              2      2      5      8  0.400 0.500 0.200 0.600 0.500
+48 (book-lung combs)                           1      1      2      3  0.500 0.500 0.250 0.500 0.750
+49 (PLS apical article)                        2      2      8     71  0.250 0.913 0.228 0.750 0.333
+50 (spigot types)                              3      3      7     29  0.429 0.846 0.363 0.571 0.429
+51 (inner row of pumpks)                       2      2      7     38  0.286 0.861 0.246 0.714 0.375
+52 (spigots on basal article of PLS)           1      1      4      8  0.250 0.571 0.143 0.750 0.500
+53 (PMS)                                       1      1      2      3  0.500 0.500 0.250 0.500 0.750
+54 (PMS spigot number)                         1      1      2      6  0.500 0.800 0.400 0.500 0.750
+55 (dorsal spines post legs)                   1      1      1      2  1.000 1.000 1.000 0.000 1.000
+56 (patella III)                               2      2     10     26  0.200 0.667 0.133 0.800 0.273
+57 (meta IV)                                   3      3     11     39  0.273 0.778 0.212 0.727 0.273
+58 (tarsi)                                     1      1      2      2  0.500 0.000 0.000 0.500 0.750
+59 (preening-combs)                            2      2     10     26  0.200 0.667 0.133 0.800 0.273
+60 (preening-combs in II)                      1      1      1      4  1.000 1.000 1.000 0.000 1.000
+61 (male plp ti, dorsal spines)                1      1     11     21  0.091 0.500 0.045 0.909 0.231
+62 (male cymbial spines)                       1      1      1      1  1.000   0/0   0/0 0.000 1.000
+63 (male, setae on palpal tibia)               1      1      1      3  1.000 1.000 1.000 0.000 1.000
+64 (male d ti I)                               1      1      5     15  0.200 0.714 0.143 0.800 0.429
+65 (male, dorsal spines on posterior tib)      1      1      1      8  1.000 1.000 1.000 0.000 1.000
+66 (male pat I)                                1      1      5     15  0.200 0.714 0.143 0.800 0.429
+67 (male Ti I)                                 1      1      2      5  0.500 0.750 0.375 0.500 0.750
+68 (male meta II)                              1      1      1      3  1.000 1.000 1.000 0.000 1.000
+69 (male pat I-II)                             1      1      6     23  0.167 0.773 0.129 0.833 0.375
+70 (plp tarsus)                                1      1      4      6  0.250 0.400 0.100 0.750 0.500
+71 (female patella IV)                         1      1      4     17  0.250 0.812 0.203 0.750 0.500
+72 (female meta II)                            1      1      1      1  1.000   0/0   0/0 0.000 1.000
+73 (female meta IV spines)                     1      1      1      3  1.000 1.000 1.000 0.000 1.000
+74 (female tibia III)                          1      1      1      2  1.000 1.000 1.000 0.000 1.000
+75 (female tarsi IV spines)                    1      1      2      4  0.500 0.667 0.333 0.500 0.750
+76 (female tibiae/meta I spines)               1      1      1      5  1.000 1.000 1.000 0.000 1.000
+77 (male metatarsal knob)                      1      1      1      2  1.000 1.000 1.000 0.000 1.000
+78 (male apical meta)                          1      1      2      2  0.500 0.000 0.000 0.500 0.750
+79 (male spur)                                 4      4     13     39  0.308 0.743 0.229 0.692 0.250
+80 (male plp ti)                               2      2     17     20  0.118 0.167 0.020 0.882 0.167
+81 (!male plp pa/ti joint)                     1      1      1      4  1.000 1.000 1.000 0.000 1.000
+82 (male plp dorsal setae)                     1      1      1     18  1.000 1.000 1.000 0.000 1.000
+83 (male palpal tibia)                         1      1      1      3  1.000 1.000 1.000 0.000 1.000
+84 (cymbium narrow, asymmetric)                1      1      1      1  1.000   0/0   0/0 0.000 1.000
+85 (cymbium big)                               1      1      1      1  1.000   0/0   0/0 0.000 1.000
+86 (male cymbial setae, thickness:)            1      1      1     10  1.000 1.000 1.000 0.000 1.000
+87 (male cymbial setae, direction)             1      1      2      2  0.500 0.000 0.000 0.500 0.750
+88 (male bulb keels)                           2      2      9     41  0.222 0.821 0.182 0.778 0.300
+89 (male bulb)                                 1      1      1      3  1.000 1.000 1.000 0.000 1.000
+90 (male bulb shape)                           1      1      6     27  0.167 0.808 0.135 0.833 0.375
+91 (male bulb duct)                            1      1      7     13  0.143 0.500 0.071 0.857 0.333
+92 (bulb coiling)                              1      1      1      3  1.000 1.000 1.000 0.000 1.000
+93 (male embolus)                              2      2      9     12  0.222 0.300 0.067 0.778 0.300
+94 (female genitalia)                          1      1      1      2  1.000 1.000 1.000 0.000 1.000
+95 (female sperm1)                             1      1      1      3  1.000 1.000 1.000 0.000 1.000
+96 (female sperm2)                             1      1      1      4  1.000 1.000 1.000 0.000 1.000
+97 (female further thickening of sperm)        1      1      1      3  1.000 1.000 1.000 0.000 1.000
+98 (female spermathecal types)                 1      1      4      8  0.250 0.571 0.143 0.750 0.500
+99 (female sperm)                              1      1      2      6  0.500 0.800 0.400 0.500 0.750
+100 (spermathecae)                             1      1      1      1  1.000   0/0   0/0 0.000 1.000
+101 (post-genital opening)                     1      1      1      1  1.000   0/0   0/0 0.000 1.000
+102 (habits)                                   4      4      9     44  0.444 0.875 0.389 0.556 0.375
+103 (burrow entrance)                          2      2      2      5  1.000 1.000 1.000 0.000 1.000
+104 (silk lined burrow)                        1      1      1      2  1.000 1.000 1.000 0.000 1.000
